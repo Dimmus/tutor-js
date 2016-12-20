@@ -45,8 +45,8 @@ UpdateStudentIdentifer = React.createClass
 
     <BS.Row>
       <ChangeStudentIdForm
-        label="Enter your school issued ID:"
-        title="Change your student ID"
+        label="Enter your school-issued ID that is used for grading:"
+        title="Update Your Student ID"
         onCancel={@onCancel}
         onSubmit={@onSubmit}
         saveButtonLabel="Save"

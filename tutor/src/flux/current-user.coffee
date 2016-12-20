@@ -57,7 +57,7 @@ ROUTES =
     roles:
       teacher: 'ccDashboardHelp'
   changeId:
-    label: 'Change Student ID'
+    label: 'Update Student ID'
     roles:
       student: 'changeStudentId'
   createCourse:

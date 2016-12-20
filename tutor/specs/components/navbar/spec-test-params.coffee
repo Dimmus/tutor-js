@@ -25,7 +25,7 @@ STUDENT_MENU = [
   {
     name: 'changeStudentId'
     params: {courseId: '1'}
-    label: 'Change Student ID'
+    label: 'Update Student ID'
   }
   {
     label: 'Browse the Book'
